@@ -1,4 +1,4 @@
-# LinkedList
+# CircularDoublyLinkedList
 Program to implement a circular doubly linked list.
 
 Things to note:
